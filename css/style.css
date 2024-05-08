@@ -20,3 +20,22 @@
 #nav-principal .nav-item{
     font-weight: 700;
 }
+
+/* FORMATACAO BAGROUNDS PAGINA */
+body{
+    background-color: rgb(0, 0, 0);
+}
+
+#banner{
+    background-image: url(../images/banner.png);
+}
+
+.bg-transparente{
+    border-radius: 20px;
+    background-color: rgba(11, 11, 11, 0.658);
+}
+
+/* FOMRMATACOES SESSÃO PROMO */
+#promo{
+    color: white;
+}
