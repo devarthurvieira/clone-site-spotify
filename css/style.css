@@ -1,0 +1,22 @@
+/* FORMATACAO PARA IMAGEM DE PERFIL */
+.avatar{
+    vertical-align: middle;
+    width: 35px;
+    height: 30px;
+    border-radius: 50%;
+    position: relative;
+        bottom: 2px;
+}
+
+/* FORMATACOES NAVEGAÇÃO SUPERIOR */
+#nav-principal a{
+    color: whitesmoke;
+}
+
+#nav-principal a:hover{
+    color: #1DB954;
+}
+
+#nav-principal .nav-item{
+    font-weight: 700;
+}
